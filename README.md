@@ -37,3 +37,9 @@ git push -u origin master
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 =======================================================
+
+Dowoload:
+
+git remote add origin https://github.com/spyspy/upload-tutorial.git
+
+git pull
