@@ -43,3 +43,11 @@ Dowoload:
 git remote add origin https://github.com/spyspy/upload-tutorial.git
 
 git pull
+
+=======================================================
+
+git remote  查詢remote是誰
+
+git remote -v 查詢有哪些remote?
+
+git fetch origin 來同步遠端伺服器上的資料到本地
