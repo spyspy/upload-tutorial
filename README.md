@@ -45,6 +45,7 @@ git remote add origin https://github.com/spyspy/upload-tutorial.git
 git pull
 
 =======================================================
+
 Synchronized Remote to Local:
 
 git fetch origin
