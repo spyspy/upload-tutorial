@@ -46,8 +46,14 @@ git pull
 
 =======================================================
 
+Synchronized Remote to Local:
+
+git fetch origin 來同步遠端伺服器上的資料到本地 (還需要 merge)
+
 git remote  查詢remote是誰
 
 git remote -v 查詢有哪些remote?
 
-git fetch origin 來同步遠端伺服器上的資料到本地
+git pull (等於 fetch + merge)
+
+=======================================================
