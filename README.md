@@ -19,6 +19,7 @@ git add README.md
 git commit -m "first commit"
 
 建立新的分支(Generate a new branch)
+
 git remote add origin https://github.com/spyspy/upload-tutorial.git
 
 git push -u origin master
